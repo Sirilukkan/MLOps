@@ -1,0 +1,10 @@
+# Model building requirement
+numpy==1.26.4
+pandas==1.4.4
+joblib==1.1.0
+scikit-learn== 1.0.2
+scipy == 1.12.0
+pytest==8.1.1
+setuptools==63.4.1
+wheel==0.37.1
+pytest==8.1.1
